@@ -3,11 +3,10 @@ var RankedProjects=[
     Projects.Details.SlingShot,
     Projects.Details.ArEducation,
     Projects.Details.Tankwar,
+    Projects.Details.VRcar,
     Projects.Details.NinjaRunner,
     Projects.Details.SpaceParkour,
-    Projects.Details.ShiroDash,
-    Projects.Details.RiTE,
-    Projects.Details.NearbyConnections
+
 ];
 //Functions
 SetPorfolioElements();
